@@ -9,7 +9,7 @@
 
 > **A sleek React deadline dashboard — select your courses, add tasks, get AI-powered prioritization with live countdowns.**
 
-[🚀 Live App](https://your-deployment-url.example.com) · [📓 Source Code](https://github.com/yourusername/deadline-radar) · [👤 Portfolio](#about)
+[🚀 Live App](https://your-deployment-url.example.com) · [📓 Source Code](https://github.com/nadeem12-cloud/Deadline_Radar) · [👤 Portfolio](https://nadeem12-cloud.github.io/Portfolio/)
 
 ---
 
