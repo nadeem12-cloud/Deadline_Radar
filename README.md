@@ -17,7 +17,7 @@
 
 | Dashboard | Add Deadline Modal |
 |:---------:|:-----------------:|
-| ![Dashboard](assets/dashboard.png) | ![Modal](assets/ss1.png) |
+| ![Dashboard](assets/dashboard.png) | ![Modal](assests/ss1.png) |
 
 | Priority Filters | Empty State |
 |:---------------:|:----------:|
