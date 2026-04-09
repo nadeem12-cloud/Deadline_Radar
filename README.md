@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel)](https://your-deployment-url.example.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev)
 [![localStorage](https://img.shields.io/badge/Storage-localStorage-FFA500?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Nadeem_memon-181717?style=flat&logo=github)](https://github.com/nadeem12-cloud)
 
 > **A sleek React deadline dashboard — select your courses, add tasks, get AI-powered prioritization with live countdowns.**
 
@@ -332,9 +332,9 @@ Built with care for students juggling multiple deadlines across courses, exams, 
 
 **Mohamad Nadeem**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat&logo=github)](https://github.com/nadeem12-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/nadeemmemon10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-4CAF50?style=flat)](https://nadeem12-cloud.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nadeem-181717?style=flat&logo=github)](https://github.com/nadeem12-cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadeem-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/nadeemmemon10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nadeem.com-4CAF50?style=flat)](https://nadeem12-cloud.github.io/Portfolio/)
 
 *Built for students. Designed for simplicity. Ready to scale.*
 
