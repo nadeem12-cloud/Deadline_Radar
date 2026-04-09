@@ -2,14 +2,14 @@
 
 ### *Track smarter. Never miss a deadline.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel)](https://your-deployment-url.example.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel)](https://deadline-radar-ir0xi7c6w-nadeem12-clouds-projects.vercel.app/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev)
 [![localStorage](https://img.shields.io/badge/Storage-localStorage-FFA500?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 [![GitHub](https://img.shields.io/badge/GitHub-Nadeem_memon-181717?style=flat&logo=github)](https://github.com/nadeem12-cloud)
 
 > **A sleek React deadline dashboard — select your courses, add tasks, get AI-powered prioritization with live countdowns.**
 
-[🚀 Live App](https://your-deployment-url.example.com) · [📓 Source Code](https://github.com/nadeem12-cloud/Deadline_Radar) · [👤 Portfolio](https://nadeem12-cloud.github.io/Portfolio/)
+[🚀 Live App](https://deadline-radar-ir0xi7c6w-nadeem12-clouds-projects.vercel.app/) · [📓 Source Code](https://github.com/nadeem12-cloud/Deadline_Radar) · [👤 Portfolio](https://nadeem12-cloud.github.io/Portfolio/)
 
 ---
 
